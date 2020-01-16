@@ -1,0 +1,1 @@
+java -jar client-combined-3.141.59.jar -role hub
